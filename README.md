@@ -1,10 +1,11 @@
-## Hi there 👋
+## Développeuse Fullstack Javascript :computer:
 
 <!--
 **agatheH/agatheH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Je suis un développeur fullstack Javascript.
+🔭 Je travaille actuellement sur une application mobile en React / Next.JS
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Compétences Techniques
+Frontend: React Next Vite SASS Tailwind CSS
+Backend: Node.js Express.js NestJS PostgreSQL Supabase 
