@@ -50,7 +50,7 @@ Je suis une développeuse fullstack Javascript.
    ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
   ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-    ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=dark&count_private=true)
+    ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?usernameagatheHE&show_icons=true&theme=dark&count_private=true)
 
 
 
