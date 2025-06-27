@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* Je suis une développeuse fullstack Javascript.
-*🔭 Je travaille actuellement sur une application mobile en React / Next.JS
+Je suis une développeuse fullstack Javascript.
+🔭 Je travaille actuellement sur une application mobile en React / Next.JS
 
 ## 💻 Compétences Techniques
 
